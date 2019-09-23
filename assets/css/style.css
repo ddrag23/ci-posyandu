@@ -1,0 +1,19 @@
+.isi img {
+	padding-right: 20px;
+}
+
+/* galery */
+
+
+.background {
+	background-color: #EAECF4;
+	margin: auto;
+	padding: 30px;
+	box-shadow: 0 0 3px 3px rgba(0, 0, 0, .2);
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.baris {
+	margin: 15px;
+}
